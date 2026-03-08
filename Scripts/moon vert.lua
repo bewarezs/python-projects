@@ -1,1 +1,0 @@
-loadstring(game:HttpGet("https://rawscripts.net/raw/UP-Just-a-baseplate.-Moon-Convert-72094"))()

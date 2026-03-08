@@ -1,1 +1,0 @@
-loadstring(game:HttpGet("https://rawscripts.net/raw/UPDPlayground:-Basketball-Playground-basketball-103731"))()

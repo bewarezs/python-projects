@@ -1,1 +1,0 @@
-loadstring(game:HttpGet("https://rawscripts.net/raw/UPD-Hoop-Nation-2-hoop-nation-v2-scirpt-new-beta-fo-41063"))()
